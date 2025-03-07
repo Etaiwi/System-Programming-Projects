@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define BOARD_SIZE 16
 #define ROW_SIZE 8
-// ID1 = 315875385      ID2 = 211685300
+
 /********************************    Function prototypes     ********************************/
 int is_move_legal(char board[][BOARD_SIZE],char,int,int,int,int);
 int is_pawn_moveable(char board[][BOARD_SIZE],char,int,int);
