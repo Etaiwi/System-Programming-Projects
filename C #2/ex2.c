@@ -1,4 +1,3 @@
-/* ID1 = 315875385      ID2 = 211685300 */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
